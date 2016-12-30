@@ -1,0 +1,13 @@
+27dfd28e7b4b9b51163fd07ece2eb5e2 *DESCRIPTION
+bf618c22978ec0d28ef627386f507a4b *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+691e59bbc2826399518622d6c7a9f269 *R/package-sparsepp.R
+a86a988bff8eda691ab49146856682a3 *README.md
+2121b8833da43f3b18a3c2f12f50f868 *inst/include/LICENSE
+bf877bbbb6c991f5f9769ca3df684afd *inst/include/README.md
+b2b9f26060e83db6a06e74facadc45dd *inst/include/bench.md
+03308e6c639d84580af4dfa42c7d99bc *inst/include/makefile
+da1dff47bc9c444b36dda3137d6e4c0b *inst/include/sparsepp.h
+f2efbdfab350f6ec66a8c259401b1383 *inst/include/spp_test.cc
+1666d6d762e705fba627fd151dfa3115 *inst/include/spp_utils.h
+84c56936fbc6870ab27839e484f9114a *man/sparsepp-package.Rd
