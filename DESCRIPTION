@@ -1,8 +1,8 @@
 Package: sparsepp
 Type: Package
 Title: 'Rcpp' Interface to 'sparsepp'
-Version: 0.2.0
-Date: 2017-08-07
+Version: 1.21
+Date: 2018-07-25
 Authors@R: c(
   person("Gregory", "Popovitch", role = c("aut", "cph"), email = "greg7mdp@gmail.com"),
   person("Google Inc", role = c("aut", "cph")),
@@ -22,10 +22,10 @@ BugReports: https://github.com/dselivanov/r-sparsepp/issues
 Suggests: Rcpp
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-08-07 08:05:23 UTC; dselivanov
+Packaged: 2018-07-24 21:31:52 UTC; dmitry
 Author: Gregory Popovitch [aut, cph],
   Google Inc [aut, cph],
   Dmitriy Selivanov [cre]
 Maintainer: Dmitriy Selivanov <selivanov.dmitriy@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-08-07 10:29:19 UTC
+Date/Publication: 2018-07-25 09:00:03 UTC
