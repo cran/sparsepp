@@ -1,7 +1,7 @@
-0bd8ef6443642820cd9c50e949da7e29 *DESCRIPTION
+7c7e5fac4bace5dd4038badf0cc740fd *DESCRIPTION
 bf618c22978ec0d28ef627386f507a4b *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-e0751116f5c54ced812a60f15eae7395 *NEWS.md
+5f5706cdb93964376c029b9a564f9a37 *NEWS.md
 25d787c063a5e9d79bf6866c9117c89e *R/package-sparsepp.R
 747188c42ab75e18ce84e05511351fed *README.md
 58e2c508a446fca1a32268cff47b3944 *inst/include/CHANGELOG.md
@@ -10,14 +10,15 @@ b71067227f1230e856dc7699ef16f5ae *inst/include/README.md
 b2b9f26060e83db6a06e74facadc45dd *inst/include/bench.md
 85bf4711f021dcc52c0c82481ddd2a1c *inst/include/examples/emplace.cc
 53a729ad93f8173504d50fe77988bd1c *inst/include/examples/hash_std.cc
-13ba2a7006fd98945e55519495f0db4b *inst/include/examples/makefile
-e78ba820c330518ee84cf982feee0b84 *inst/include/examples/serialize_file.cc
+99ef4d9a5ea31937469375a0fdb07965 *inst/include/examples/makefile
+b81b7b24c1255e8975a91ab7d453fb41 *inst/include/examples/piecewise.cc
+b031d009be2f014a0e9521f94aeee310 *inst/include/examples/serialize_file.cc
 28d84eb825939b3ffd2a61186dc8f695 *inst/include/examples/serialize_large.cc
 eeac196e28c378ae0f7816751f7b329c *inst/include/examples/serialize_stream.cc
 ee6291c7514c5ea0adc90c8deaf04cbc *inst/include/examples/vsprojects/serialize_stream.vcxproj
 19ff3632fc4618176b5f255e19c7546e *inst/include/examples/vsprojects/serialize_stream.vcxproj.filters
 5dce101e8bb3f911cfb0f1c8f60cc87c *inst/include/examples/vsprojects/spp_examples.sln
-7e4aa8dd87c4216b4397b389b973909f *inst/include/sparsepp/spp.h
+111742c4ce49043031f17d23cd5d0a19 *inst/include/sparsepp/spp.h
 66521ed3eba1cb1ee91132cbb2127a00 *inst/include/sparsepp/spp_config.h
 892541b25704c06322ab284cd63ed80b *inst/include/sparsepp/spp_dlalloc.h
 df760f4d772e2c331633db7250a62a39 *inst/include/sparsepp/spp_memory.h
@@ -27,7 +28,7 @@ f0b2712a58ee94c7d5870647d2c0a385 *inst/include/sparsepp/spp_timer.h
 f5eb2ecc5c66d6611e610a3f1899cdb1 *inst/include/sparsepp/spp_traits.h
 bf31d72e008018f59a21a5b7fa426835 *inst/include/sparsepp/spp_utils.h
 87c6f5af63ae445b811d02ab5552e5be *inst/include/spp.natvis
-49e7ce843de3cd1f92dab667eaa1f32e *inst/include/tests/makefile
+e9defe46043964664501c2a4fb0463ac *inst/include/tests/makefile
 583f30c52ecbad8385dcd12cb4258a93 *inst/include/tests/perftest1.cc
 bfee681b4eab22c6ce2649e136d8f646 *inst/include/tests/spp_alloc_test.cc
 2d58cda3d0bde6282bb22d875e9610d9 *inst/include/tests/spp_bitset_test.cc
